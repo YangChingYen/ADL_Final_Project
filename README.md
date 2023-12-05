@@ -9,7 +9,7 @@
 
 3. Add upstream : 
    ```
-   git remote add git@github.com:YangChingYen/ADL_Final_Project.git
+   git remote add upstream git@github.com:YangChingYen/ADL_Final_Project.git
    ```
 
 * If you want to pull others' code :  
