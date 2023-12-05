@@ -20,6 +20,6 @@
 * Push to upstream : 
 
   ```
-  git push
+  git push origin main
   ```
   Then go to GitHub page to send a pull request
