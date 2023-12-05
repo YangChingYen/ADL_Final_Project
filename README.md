@@ -17,9 +17,9 @@
   git pull upstream main
   ```
 
-* Push to loacl repo : 
+* Push to upstream : 
 
   ```
-  git push origin
+  git push
   ```
   Then go to GitHub page to send a pull request
