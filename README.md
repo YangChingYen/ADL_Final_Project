@@ -23,3 +23,10 @@
   git push origin main
   ```
   Then go to GitHub page to send a pull request
+
+### Get Pairs of Similar prompts.
+```
+cd cos_similarity_test
+python classify.py
+```
+the result is at **similar_pair.json**
