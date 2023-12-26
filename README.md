@@ -26,6 +26,7 @@
 
 ### Get Pairs of Similar prompts.
 ```
+pip install tensorflow tensorflow_hub
 cd cos_similarity_test
 python classify.py
 ```
