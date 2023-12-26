@@ -30,4 +30,4 @@ pip install tensorflow tensorflow_hub
 cd cos_similarity_test
 python classify.py
 ```
-the result is at **similar_pair.json**
+the result is stored at **similar_pair.json**
